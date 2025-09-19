@@ -1,5 +1,7 @@
 # clq
 
+This repository was moved to [Codeberg](https://codeberg.org/sebastianardelean/clq) and the development will continue there.
+
 ## Usage
 
 **clq** is a package that allows the definition and development of quantum circuits in Common Lisp and to export them to **OpenQASM v2.0**.
